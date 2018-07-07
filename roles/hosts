@@ -1,6 +1,2 @@
 [test]
-<<<<<<< HEAD
-slave1
-=======
-jenkins
->>>>>>> 5bed1149f8f7f497d24bbb243d9089ec6c6b529d
+slave
