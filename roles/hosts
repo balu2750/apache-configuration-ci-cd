@@ -1,2 +1,6 @@
 [test]
+<<<<<<< HEAD
+slave
+=======
 ansible
+>>>>>>> a3e27a806ddd3c4693d742b9edeca60a03f3efdb
