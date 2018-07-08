@@ -1,2 +1,4 @@
+[dev]
+ansible
 [test]
 slave
